@@ -1,5 +1,7 @@
 Tsedeniya Fiseha | UGR/9263/16  |  section-2 
 
+https://www.loom.com/share/be5ae2eaed8442a391b27c879608709c
+
 # Maze Generator and Solver
 
 A Python-based maze generator and solver that creates proper rectangular mazes using a stack-based depth-first search algorithm and solves them using backtracking. The system provides real-time visualization of both the generation and solving processes using Pygame.
